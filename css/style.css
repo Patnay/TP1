@@ -1,0 +1,115 @@
+body{
+    background: linear-gradient(red,yellow);
+
+}
+table{
+ width: 256px;   
+}
+table,td,th{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    width: 256px;
+    margin: auto;
+    background-color: white;
+}
+.titre{
+    background-color: black;
+    color: white;
+}
+.image{
+    width: 128px;
+}
+.listActeur{
+    list-style: none;
+    width:128px;
+}
+.imageActeur{
+    list-style: none;
+}
+.distribution{
+background-color: black;
+color: white;
+height: 0px ;
+}
+.histoire{
+
+}
+{
+    list-style: none;
+    padding: 2px;
+    width: 128px;
+}
+.Source,.Films{
+    list-style: circle;
+}
+.robert{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(../Image/Robert_Downey_Jr..png);
+}
+.scarlette{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(../Image/Scarlett_Johansson.png);
+}
+.mark{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(../Image/Mark_Ruffalo.png);
+}
+.tom{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(../Image/Tom_Hiddleston.png);
+}
+.jeremy{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(../Image/Jeremy_Renner.png);
+}
+.chrisE{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(../Image/Chris_Evans.png);
+}
+.chrisH{    
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url(../Image/Chris_Hemsworth.png);
+}
