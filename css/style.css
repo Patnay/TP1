@@ -1,14 +1,12 @@
 body{
     background: linear-gradient(red,yellow);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 
 }
 table{
  width: 256px;   
 }
-table,td,th{
-    border-width: 1px;
-    border-color: black;
-    border-style: solid;
+table{
     width: 256px;
     margin: auto;
     background-color: white;
@@ -22,7 +20,13 @@ table,td,th{
 }
 .listActeur{
     list-style: none;
-    width:128px;
+    list-style: none;
+    width:200px;
+
+}
+.listActeur2{
+    font-weight: bold;
+    font-size: x-large;
 }
 .imageActeur{
     list-style: none;
@@ -33,16 +37,20 @@ color: white;
 height: 0px ;
 }
 .histoire{
+font-size: large;
+}
 
+.Source{
+    height: 25%;
 }
-{
-    list-style: none;
-    padding: 2px;
-    width: 128px;
-}
-.Source,.Films{
+.source,.Films{
     list-style: circle;
+    font-size: larger;
 }
+.listActeurLink{
+    font-style: italic;
+    font-size: large;
+}   
 .robert{
     width: 80px;
     height: 80px;
