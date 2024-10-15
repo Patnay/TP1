@@ -14,6 +14,7 @@ table{
 .titre{
     background-color: black;
     color: white;
+    font-size: xx-large;
 }
 .image{
     width: 128px;
@@ -34,7 +35,7 @@ table{
 .distribution{
 background-color: black;
 color: white;
-height: 0px ;
+font-size: xx-large;
 }
 .histoire{
 font-size: large;
