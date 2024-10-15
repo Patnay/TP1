@@ -1,10 +1,6 @@
 body{
     background: linear-gradient(red,yellow);
     font-family: Verdana, Geneva, Tahoma, sans-serif
-
-}
-table{
- width: 256px;   
 }
 table{
     width: 256px;
@@ -23,7 +19,6 @@ table{
     list-style: none;
     list-style: none;
     width:200px;
-
 }
 .listActeur2{
     font-weight: bold;
@@ -39,10 +34,6 @@ font-size: xx-large;
 }
 .histoire{
 font-size: large;
-}
-
-.Source{
-    height: 25%;
 }
 .source,.Films{
     list-style: circle;
